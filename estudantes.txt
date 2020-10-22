@@ -1,0 +1,11 @@
+Jonas da Mantiqueira;M;9;Rua das Batatinhas 70;
+Lidia;F;3;Rua Estranha;
+Laura;F;2;Rua dos computadores;
+João Lopes ;M;1;Rua Arthur;
+Liliam Martins;F;4;Rua dos Alfeneiros;
+Alécio Santana 33;M;5;Rua adjair;
+Matilda;F;88;Rua das Oliveiras;
+Joliane;F;90;Rua das Jolies;
+Hellen;F;20;Rua das meninas;
+Igdrazil;F;25;Arvore do mundo;
+Cintia;F;6;Rua Antenor;
